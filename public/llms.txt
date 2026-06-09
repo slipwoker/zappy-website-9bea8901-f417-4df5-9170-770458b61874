@@ -1,0 +1,103 @@
+# Miami Shirts — Generative Engine Optimization Map
+
+> A t-shirt retail store based in Miami, Florida. The business focuses on selling t-shirts, likely drawing from the vibrant, diverse, and sunny Miami culture and lifestyle.
+
+---
+
+## Pages
+
+### Home
+https://miami-shirts-9bea8901.zappy5.app
+Discover Miami Shirts, your premier luxury fashion retailer in the heart of Miami. Shop vibrant, culture-infused tees that capture the sunny Miami lifestyle. Elevate your wardrobe today.
+
+### About
+https://miami-shirts-9bea8901.zappy5.app/about
+Dive into the story of Miami Shirts, a proud part of the g3 apparel group. Learn how our luxury fashion retailer roots in Miami culture fuel every exclusive tee design. Join our journey.
+
+### Lookbook
+https://miami-shirts-9bea8901.zappy5.app/lookbook
+Flip through the Miami Shirts lookbook and get inspired by our latest luxury fashion retailer drops. From beach vibes to streetwear, find your next statement tee. Browse the edit.
+
+### Contact
+https://miami-shirts-9bea8901.zappy5.app/contact
+Connect with Miami Shirts, the luxury fashion retailer redefining Miami style. Reach out for personalized t-shirt requests, collabs, or store visits. Let&#39;s make something iconic together.
+
+### Products
+https://miami-shirts-9bea8901.zappy5.app/products
+Our Products - Miami Shirts
+
+### Cart
+https://miami-shirts-9bea8901.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://miami-shirts-9bea8901.zappy5.app/checkout
+Checkout
+
+### Login
+https://miami-shirts-9bea8901.zappy5.app/login
+Customer Login
+
+### Account
+https://miami-shirts-9bea8901.zappy5.app/account
+My Account
+
+### Order Success
+https://miami-shirts-9bea8901.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://miami-shirts-9bea8901.zappy5.app/product/:slug
+Product Details - Miami Shirts
+
+### Category
+https://miami-shirts-9bea8901.zappy5.app/category/:slug
+Products - Miami Shirts
+
+## Legal & Policy
+
+### Privacy Policy
+https://miami-shirts-9bea8901.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://miami-shirts-9bea8901.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://miami-shirts-9bea8901.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Miami Shirts
+A t-shirt retail store based in Miami, Florida. The business focuses on selling t-shirts, likely drawing from the vibrant, diverse, and sunny Miami culture and lifestyle.
+
+## Services/Products
+- t-shirt sales
+
+## Target Audience
+- Beach Enthusiasts
+- College Students
+- Young People
+
+## Industry
+Retail / Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://miami-shirts-9bea8901.zappy5.app/sitemap.xml
+- Robots: https://miami-shirts-9bea8901.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://miami-shirts-9bea8901.zappy5.app/llms-full.txt
+- Products (JSON): https://miami-shirts-9bea8901.zappy5.app/products.json
+- Products (Google Merchant RSS): https://miami-shirts-9bea8901.zappy5.app/product-feed.xml
