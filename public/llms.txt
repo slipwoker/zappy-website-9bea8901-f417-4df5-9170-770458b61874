@@ -6,21 +6,17 @@
 
 ## Pages
 
-### Home
+### Unleash Miami Style with Luxury T-Shirts — Miami Shirts
 https://example.com
 Discover Miami Shirts, your premier luxury fashion retailer in the heart of Miami. Shop vibrant, culture-infused tees that capture the sunny Miami lifestyle. Elevate your wardrobe today.
 
-### About
-https://example.com/about
-Dive into the story of Miami Shirts, a proud part of the g3 apparel group. Learn how our luxury fashion retailer roots in Miami culture fuel every exclusive tee design. Join our journey.
-
-### Lookbook
+### Explore Sun-Drenched Tee Collections Now — Miami Shirts
 https://example.com/lookbook
 Flip through the Miami Shirts lookbook and get inspired by our latest luxury fashion retailer drops. From beach vibes to streetwear, find your next statement tee. Browse the edit.
 
-### Contact
-https://example.com/contact
-Connect with Miami Shirts, the luxury fashion retailer redefining Miami style. Reach out for personalized t-shirt requests, collabs, or store visits. Let&#39;s make something iconic together.
+### Meet the Vision Behind G3 Apparel Group — Miami Shirts
+https://example.com/about
+Dive into the story of Miami Shirts, a proud part of the g3 apparel group. Learn how our luxury fashion retailer roots in Miami culture fuel every exclusive tee design. Join our journey.
 
 ### Products
 https://example.com/products
@@ -38,21 +34,25 @@ Checkout
 https://example.com/login
 Customer Login
 
-### Account
+### My Account
 https://example.com/account
 My Account
 
-### Order Success
+### Order Received!
 https://example.com/order-success
 Thank you for your order
 
-### Product Detail
+### Product Details
 https://example.com/product/:slug
 Product Details - Miami Shirts
 
-### Category
+### Products
 https://example.com/category/:slug
 Products - Miami Shirts
+
+### Start Your Bespoke Tee Inquiry Here — Miami Shirts
+https://example.com/contact
+Connect with Miami Shirts, the luxury fashion retailer redefining Miami style. Reach out for personalized t-shirt requests, collabs, or store visits. Let&#39;s make something iconic together.
 
 ## Legal & Policy
 
