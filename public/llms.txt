@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://miami-shirts-9bea8901.zappy5.app
+https://example.com
 Discover Miami Shirts, your premier luxury fashion retailer in the heart of Miami. Shop vibrant, culture-infused tees that capture the sunny Miami lifestyle. Elevate your wardrobe today.
 
 ### About
-https://miami-shirts-9bea8901.zappy5.app/about
+https://example.com/about
 Dive into the story of Miami Shirts, a proud part of the g3 apparel group. Learn how our luxury fashion retailer roots in Miami culture fuel every exclusive tee design. Join our journey.
 
 ### Lookbook
-https://miami-shirts-9bea8901.zappy5.app/lookbook
+https://example.com/lookbook
 Flip through the Miami Shirts lookbook and get inspired by our latest luxury fashion retailer drops. From beach vibes to streetwear, find your next statement tee. Browse the edit.
 
 ### Contact
-https://miami-shirts-9bea8901.zappy5.app/contact
+https://example.com/contact
 Connect with Miami Shirts, the luxury fashion retailer redefining Miami style. Reach out for personalized t-shirt requests, collabs, or store visits. Let&#39;s make something iconic together.
 
 ### Products
-https://miami-shirts-9bea8901.zappy5.app/products
+https://example.com/products
 Our Products - Miami Shirts
 
 ### Cart
-https://miami-shirts-9bea8901.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://miami-shirts-9bea8901.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://miami-shirts-9bea8901.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://miami-shirts-9bea8901.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://miami-shirts-9bea8901.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://miami-shirts-9bea8901.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Miami Shirts
 
 ### Category
-https://miami-shirts-9bea8901.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Miami Shirts
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://miami-shirts-9bea8901.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://miami-shirts-9bea8901.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://miami-shirts-9bea8901.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -96,8 +96,8 @@ Retail / Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://miami-shirts-9bea8901.zappy5.app/sitemap.xml
-- Robots: https://miami-shirts-9bea8901.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://miami-shirts-9bea8901.zappy5.app/llms-full.txt
-- Products (JSON): https://miami-shirts-9bea8901.zappy5.app/products.json
-- Products (Google Merchant RSS): https://miami-shirts-9bea8901.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
